@@ -1,0 +1,55 @@
+<html>
+
+  <head>
+    <title> Danielle's Week 1 Lab sumbmission </title>
+  </head>
+
+  <body>
+    <p><strong> IASC </strong><font colour="red"> 1P02 is </font><em> sweet? </em>
+
+    <img src="url" https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.gannett-cdn.com%2Fpresto%2F2020%2F03%2F17%2FUSAT%2Fc0eff9ec-e0e4-42db-b308-f748933229ee-XXX_ThinkstockPhotos-200460053-001.jpg%3Fcrop%3D1170%252C658%252Cx292%252Cy120%26width%3D1200&imgrefurl=https%3A%2F%2Fwww.usatoday.com%2Fpicture-gallery%2Flife%2F2020%2F03%2F18%2Fcute-puppy-photos-to-make-you-smile%2F5068675002%2F&tbnid=1ryxMTgWs8vtUM&vet=12ahUKEwj6pPyEv_nyAhVmrXIEHerjCBwQMygQegUIARDuAQ..i&docid=b8nd5ak1wbDbqM&w=1200&h=675&q=cute%20puppies&client=safari&ved=2ahUKEwj6pPyEv_nyAhVmrXIEHerjCBwQMygQegUIARDuAQ alt= happy lab puppy />
+    <img src="90.jpeg" />
+
+    <ul>
+      <li> Types of Dog Breeds
+        <ul>
+          <li> Large
+          <li> Medium
+          <li> Small
+        </ul>
+      </li>
+    </ul>
+
+    <ol>
+      <li> Life Expectancies Based on Size
+        <ol>
+          <li> Small (10 - 15 years)
+          <li> Medium (10 - 13 years)
+          <li> Large (8 - 12 years)
+        </ol>
+      </li>
+    </ol>
+
+    <table border = "1" height="200" width="200">
+      <tr>
+        <td colspan="2" bottom-spanned cell </td>
+      </tr>
+      <tr>
+        <td> Top left cell </td>
+        <td> Top right cell </td>
+      </tr>
+    </table>
+
+    <table border="1" height="200" width="200"
+      <tr>
+        <td rowspan="2" right-spanned cell </td>
+      </tr>
+      <tr>
+        <td> Top left cell </td>
+        <td> Bottom left cell </td>
+      </tr>
+    </table>
+
+  </body>
+
+</html>
