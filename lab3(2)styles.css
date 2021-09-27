@@ -1,0 +1,13 @@
+body{
+  background-color: red;
+}
+
+.ulstyle{
+  color: green;
+  font-style: italic;
+}
+
+.listyle{
+  display: inline;
+  font-size: 30px
+}
