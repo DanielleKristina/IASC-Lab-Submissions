@@ -13,5 +13,9 @@ body{
 }
 
 .greenPara{
-  color: dark green; 
+  color: darkgreen;
+}
+
+.purplePara{
+  color: purple;
 }
