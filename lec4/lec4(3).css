@@ -5,10 +5,10 @@ body{
 #wrapper{
   background-color: green;
   border: 4px black dotted;
-  padding: 10px;
+  padding: 30px;
 }
 
-div p.para{
+div p{
   color: red;
   padding: 10px;
 }
