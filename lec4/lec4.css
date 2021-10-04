@@ -1,6 +1,5 @@
 body{
   background-color: blue;
-  font color: red;
 }
 
 #wrapper{
@@ -11,6 +10,7 @@ body{
 
 p{
   border: 4px green dashed;
+  font-color: red;
 }
 
 img{
