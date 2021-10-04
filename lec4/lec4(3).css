@@ -8,11 +8,10 @@ body{
   padding: 30px;
 }
 
-div p{
+.redPara{
   color: red;
-  padding: 10px;
 }
 
-p{
-  color: purple;
+.greenPara{
+  color: dark green; 
 }
