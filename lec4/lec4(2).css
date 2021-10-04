@@ -1,0 +1,29 @@
+body{
+  background-color: white;
+  padding: 15px;
+}
+
+#wrapper{
+  border: 2px purple dotted;
+  padding: 5px;
+  margin: 20px 10% 20px 10%;
+}
+
+.header2{
+  text-align: center;
+}
+
+.header1{
+  text-align: left;
+  color: orange;
+}
+
+p{
+  color: green;
+  text-align: center;
+}
+
+p{
+  text-align: right;
+  color: purple;
+}
