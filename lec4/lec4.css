@@ -9,11 +9,11 @@ body{
 }
 
 p{
-  border: 4px green dashed;
-  font-color: red;
+  border: 2px green dashed;
+  font color: red;
 }
 
 img{
   border: 2px yellow dashed;
-  padding: 10px;
+  padding: 20px;
 }
