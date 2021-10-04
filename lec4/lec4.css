@@ -1,18 +1,19 @@
 body{
   background-color: blue;
+  font color: red;
 }
 
 #wrapper{
-  margin: 25px;
-  padding: 10px;
+  margin: 35px;
+  padding: 15px;
   border: 5px black solid;
+}
+
+p{
+  border: 4px green dashed;
 }
 
 img{
   border: 2px yellow dashed;
-  padding: 3px;
-}
-
-p{
-  border: 2px green dashed;
+  padding: 10px;
 }
