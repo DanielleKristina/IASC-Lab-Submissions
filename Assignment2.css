@@ -1,0 +1,34 @@
+body{
+  background-color: black;
+  width: 300px;
+  border: 15px;
+  margin: 15px;
+}
+
+.colour{
+  font-color: purple;
+  position: fixed;
+}
+
+.resize{
+  font-size: 30px;
+  position: absolute;
+}
+
+.newstyle{
+  font-family: "Helvetica", arial, serif;
+  position: relative
+}
+
+.capitalize{
+  text-transform: capitalize;
+  margin: 0 auto;
+}
+
+.marked{
+  color: orange;
+}
+
+h1,h2,h3{
+  color: darkblue;
+}
