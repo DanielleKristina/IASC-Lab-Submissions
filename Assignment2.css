@@ -10,17 +10,14 @@ img{
 
 .colour{
   font-color: purple;
-  position: fixed;
 }
 
 .resize{
   font-size: 30px;
-  position: absolute;
 }
 
 .newstyle{
   font-family: "Helvetica", arial, serif;
-  position: relative
 }
 
 .capitalize{
