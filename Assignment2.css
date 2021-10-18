@@ -1,15 +1,47 @@
 body{
-  background-color: white;
+  background-color: #FFB6C1;
+}
+
+.topleft{
+  position: absolute;
+  top: 20px;
+  left: 40px;
+}
+
+#leftbody{
+  float: left;
+  background-color: #FF1493;
+  height: 400px;
+  width: 350px;
+}
+
+#rightbody{
+  float: right;
+  background-color: #FF00FF;
+  height: 400px;
+  width: 400px
+}
+
+#header{
+  height: 50px;
+  text-align: center;
 }
 
 img{
-  border: 2px solid;
+  border: 3px solid;
   width: 300px;
   height: 300px;
 }
 
-.colour{
-  font-color: purple;
+#wrapper{
+  margin:0 auto;
+  padding: 10px;
+  width: 750px;
+  background-color: white
+}
+
+.fix{
+  position: fixed;
 }
 
 .resize{
@@ -18,15 +50,20 @@ img{
 
 .newstyle{
   font-family: "Helvetica", arial, serif;
+  color: #8B0000;
 }
 
-.capitalize{
-  text-transform: capitalize;
-  margin: 0 auto;
+.up{
+  text-transform: uppercase;
 }
 
 .marked{
   color: orange;
+}
+
+.rela{
+  position: relative;
+  right: 50px;
 }
 
 h1,h2,h3{
