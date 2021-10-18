@@ -1,0 +1,40 @@
+body{
+  background-color: white;
+}
+
+img{
+  border: 2px solid;
+  width: 300px;
+  height: 300px;
+}
+
+#wrapper{
+  margin: 50px;
+  padding: 30px;
+  boarder: 3px black solid;
+}
+
+#colour{
+  font-color: purple;
+}
+
+.resize{
+  font-size: 30px;
+}
+
+.newstyle{
+  font-family: "Helvetica", arial, serif;
+}
+
+.uppercase{
+  text-transform: capitalize;
+  margin: 0 auto;
+}
+
+.marked{
+  color: orange;
+}
+
+h1,h2,h3{
+  color: darkblue;
+}
