@@ -1,0 +1,53 @@
+body{
+  backgroud-colour: white;
+  margin: 0px;
+  padding: 0px;
+}
+
+#initMap{
+  height: 500px;
+  width: 50%;
+}
+
+#img {
+  float: left;
+  height: 50px;
+  width: 50px;
+  border: solid;
+}
+
+*{
+  margin-top: 20px;
+  margin-right: 10%;
+  margin-bottom: 20px;
+  margin-left: 10%;
+  padding: 10%;
+  font-family: "Times New Roman", Times, sans-serif, normal;
+  font-size: 30px;
+}
+
+.header{
+  background-color: #FFDB15;
+  height: 50px;
+  text-align: center;
+  font-size: 35px;
+  width: auto;
+  padding: 10px;
+  color: #0000FF;
+}
+
+.left {
+  width: 200px;
+  height: 500px;
+  margin: 10%;
+  padding: 10%;
+  float: left;
+}
+
+.footer {
+  height: 50px;
+  text-align: left;
+  font-size: 20px;
+  color: white;
+  width: auto;
+}

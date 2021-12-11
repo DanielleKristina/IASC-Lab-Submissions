@@ -1,0 +1,27 @@
+*{
+  margin-top: 20px;
+  margin-right: 10%;
+  margin-bottom: 20px;
+  margin-left: 10%;
+  padding: 10%;
+  font-family: "Times New Roman", Times, sans-serif, normal;
+  font-size: 30px;
+}
+
+.header{
+  background-color: #FFDB15;
+  height: 50px;
+  text-align: center;
+  font-size: 35px;
+  width: auto;
+  padding: 10px;
+  color: #0000FF;
+}
+
+.footer {
+  height: 50px;
+  text-align: left;
+  font-size: 20px;
+  color: white;
+  width: auto;
+}
